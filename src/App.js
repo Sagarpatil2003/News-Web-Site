@@ -1,16 +1,11 @@
 import React, { useState } from "react";
-import Nav from "./Nav";
+import News from "./components/News";
 
 function App() {
-  
-  
 
- 
-  
- 
   return (
     <div >
-      <Nav/>
+      <News />
     </div>
   );
 }
